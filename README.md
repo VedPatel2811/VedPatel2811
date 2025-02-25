@@ -1,9 +1,12 @@
-# Hi there! 👋 I'm Ved Patel  
+<div style="background-color: #230030; padding: 20px; border-radius: 10px; color: white;">
+# Hi there! 👋 I'm Ved Patel
 
-## 🚀 About Me  
-I'm a passionate **Software Developer** currently pursuing an **Advanced Diploma in Computer Engineering Technology – Computing Science**. I love exploring new technologies, solving challenging problems, and continuously improving my skills.  
+## 🚀 About Me
 
-## 🔧 Tech Stack  
+I'm a passionate **Software Developer** currently pursuing an **Advanced Diploma in Computer Engineering Technology – Computing Science**. I love exploring new technologies, solving challenging problems, and continuously improving my skills.
+
+## 🔧 Tech Stack
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
@@ -21,25 +24,31 @@ I'm a passionate **Software Developer** currently pursuing an **Advanced Diploma
 ![QNX](https://img.shields.io/badge/QNX-000000?style=for-the-badge&logo=blackberry&logoColor=white)  
 ![Neutrino OS](https://img.shields.io/badge/Neutrino%20OS-000000?style=for-the-badge&logo=blackberry&logoColor=white)
 
-## 📌 Pinned Projects  
-- 🔹 [**Kubernetes Custom Marketplace Solution**](https://github.com/VedPatel2811/Kubernetes) – A custom marketplace solution using Kubernetes for Communications Security Establishment Canada.  
-- 🔹 [**Slider Web Application**](https://github.com/VedPatel2811/Slider) – A Java-based user authentication system with Selenium testing.  
-- 🔹 [**Connect-4 Game**](https://github.com/VedPatel2811/Connect-4) – A multiplayer Connect-4 game built with Java Swing.  
+## 📌 Pinned Projects
+
+- 🔹 [**Kubernetes Custom Marketplace Solution**](https://github.com/VedPatel2811/Kubernetes) – A custom marketplace solution using Kubernetes for Communications Security Establishment Canada.
+- 🔹 [**Slider Web Application**](https://github.com/VedPatel2811/Slider) – A Java-based user authentication system with Selenium testing.
+- 🔹 [**Connect-4 Game**](https://github.com/VedPatel2811/Connect-4) – A multiplayer Connect-4 game built with Java Swing.
 - 🔹 [**Portfolio Website**](https://github.com/VedPatel2811/portfolio) – A React-based personal portfolio showcasing my work.
 - 🔹 [**Book Tracking Web App**](https://github.com/VedPatel2811/BookRepPrj) – A PHP-based Book Tracking website to manage Inventory.
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 ![VedPatel2811's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedPatel2811&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VedPatel2811&layout=compact&theme=tokyonight)   
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VedPatel2811&layout=compact&theme=tokyonight)
 
-## 📫 Connect with Me  
+## 📫 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ved-patel-067077264/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veds28112004@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veds28112004@gmail.com)
 
-## 🎯 Fun Facts & Hobbies  
-- 🧩 Love solving coding challenges and puzzles.  
-- 🚀 A quick learner, always exploring new technologies.  
-- 🎮 Enjoy playing strategy games and competitive programming.  
-- ☕ Big fan of coffee and late-night coding!  
+## 🎯 Fun Facts & Hobbies
 
-Thanks for stopping by! Feel free to check out my projects and connect with me. 😃  
+- 🧩 Love solving coding challenges and puzzles.
+- 🚀 A quick learner, always exploring new technologies.
+- 🎮 Enjoy playing strategy games and competitive programming.
+- ☕ Big fan of coffee and late-night coding!
+
+Thanks for stopping by! Feel free to check out my projects and connect with me. 😃
+
+</div>
