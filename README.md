@@ -1,4 +1,3 @@
-<div style="background-color: #230030; padding: 20px; border-radius: 10px; color: white;">
 # Hi there! 👋 I'm Ved Patel
 
 ## 🚀 About Me
@@ -26,11 +25,11 @@ I'm a passionate **Software Developer** currently pursuing an **Advanced Diploma
 
 ## 📌 Pinned Projects
 
-- 🔹 [**Kubernetes Custom Marketplace Solution**](https://github.com/VedPatel2811/Kubernetes) – A custom marketplace solution using Kubernetes for Communications Security Establishment Canada.
-- 🔹 [**Slider Web Application**](https://github.com/VedPatel2811/Slider) – A Java-based user authentication system with Selenium testing.
-- 🔹 [**Connect-4 Game**](https://github.com/VedPatel2811/Connect-4) – A multiplayer Connect-4 game built with Java Swing.
-- 🔹 [**Portfolio Website**](https://github.com/VedPatel2811/portfolio) – A React-based personal portfolio showcasing my work.
-- 🔹 [**Book Tracking Web App**](https://github.com/VedPatel2811/BookRepPrj) – A PHP-based Book Tracking website to manage Inventory.
+🔹 [**Kubernetes Custom Marketplace Solution**](https://github.com/VedPatel2811/Kubernetes) – A custom marketplace solution using Kubernetes for Communications Security Establishment Canada.
+🔹 [**Slider Web Application**](https://github.com/VedPatel2811/Slider) – A Java-based user authentication system with Selenium testing.
+🔹 [**Connect-4 Game**](https://github.com/VedPatel2811/Connect-4) – A multiplayer Connect-4 game built with Java Swing.
+🔹 [**Portfolio Website**](https://github.com/VedPatel2811/portfolio) – A React-based personal portfolio showcasing my work.
+🔹 [**Book Tracking Web App**](https://github.com/VedPatel2811/BookRepPrj) – A PHP-based Book Tracking website to manage Inventory.
 
 ## 📊 GitHub Stats
 
@@ -44,11 +43,9 @@ I'm a passionate **Software Developer** currently pursuing an **Advanced Diploma
 
 ## 🎯 Fun Facts & Hobbies
 
-- 🧩 Love solving coding challenges and puzzles.
-- 🚀 A quick learner, always exploring new technologies.
-- 🎮 Enjoy playing strategy games and competitive programming.
-- ☕ Big fan of coffee and late-night coding!
+🔹 🧩 Love solving coding challenges and puzzles.
+🔹 🚀 A quick learner, always exploring new technologies.
+🔹 🎮 Enjoy playing strategy games and competitive programming.
+🔹 ☕ Big fan of coffee and late-night coding!
 
 Thanks for stopping by! Feel free to check out my projects and connect with me. 😃
-
-</div>
