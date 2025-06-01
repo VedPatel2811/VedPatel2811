@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Developer** currently pursuing an **Advanced Diploma in Computer Engineering Technology – Computing Science**. I love exploring new technologies, solving challenging problems, and continuously improving my skills.
+I'm a passionate **Software Developer** with an **Advanced Diploma in Computer Engineering Technology – Computing Science**. I love exploring new technologies, solving challenging problems, and continuously improving my skills.
 
 ## 🔧 Tech Stack
 
